@@ -1,6 +1,14 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+## Tutorial Tour of Heroes
+Create a Project
+1-The Hero editor
+2-Display a list
+3-Create a feature
+4-Add service
+5-Add Navigation
+6-Get Data from a server
+[Angular Tutorial](https://angular.io/tutorial/tour-of-heroes/toh-pt0)
 
 ## Development server
 
